@@ -1,0 +1,10 @@
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\bin\Debug\ChecksumGUI.exe.config
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\bin\Debug\ChecksumGUI.exe
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\bin\Debug\ChecksumGUI.pdb
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.ChecksumGui.resources
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.Properties.Resources.resources
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.exe
+C:\Users\thoma\source\repos\ChecksumGUI\ChecksumGUI\obj\Debug\ChecksumGUI.pdb
